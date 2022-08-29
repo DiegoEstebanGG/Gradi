@@ -1,0 +1,1 @@
+la prueba se realizo con html javascript y css nada mas se estan sacando los datos de la url por medio de json para poderlos pintar en el html  
