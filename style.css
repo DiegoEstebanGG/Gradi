@@ -1,0 +1,18 @@
+#interna1 {
+    width: 50%;
+}
+
+#interna2 {
+    width: 50%;
+    float: right;
+}
+
+#precio {
+    width: 50%;
+}
+
+#preciod {
+    width: 50%;
+    color: gainsboro;
+    text-decoration-line: line-through;
+}
